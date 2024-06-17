@@ -1,0 +1,6 @@
+
+*.lock
+*.properties
+*.bin
+*.probe
+DropGame/core/build/libs/core-1.0.jar
